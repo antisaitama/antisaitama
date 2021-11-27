@@ -16,7 +16,7 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
 <!---
 antisaitama/antisaitama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [website]: https://antisaitama.github.io
-[instagram]: https://instagram/433
+[instagram]: https://instagram.com/433
 [twitter]: https://twitter/antisaitama
