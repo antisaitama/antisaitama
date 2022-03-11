@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Habiburrahman aka @antisaitama
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python 🐍
-- 🥅 My 2021 goals is to learn everything as much as I can
+- 🥅 My 2022 goals is to learn everything as much as I can
 
 - 📫 How to reach me ...
 
